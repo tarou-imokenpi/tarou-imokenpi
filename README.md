@@ -7,6 +7,7 @@
   </a>
 </div>
 
+### 🌱 I’m currently learning python and DB
 
 
 
