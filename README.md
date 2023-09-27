@@ -1,14 +1,14 @@
 <div align="center" style="display: flex; justify-content: space-between; margin: 0 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarou-imokenpi&hide=contribs,prs&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tarou-imokenpi&hide=contribs,prs&show_icons=true&theme=transparent"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarou-imokenpi&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarou-imokenpi&theme=transparent"/>
   </a>
 </div>
 <h1></h1>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning python and DB
 
