@@ -1,9 +1,9 @@
 <div align="center" style="display: flex; justify-content: space-between; margin: 0 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarou-imokenpi&hide=contribs,prs&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tarou-imokenpi&hide=contribs,prs&show_icons=true&theme=gruvbox" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarou-imokenpi&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarou-imokenpi" />
   </a>
 </div>
 
