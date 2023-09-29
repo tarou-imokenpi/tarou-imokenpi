@@ -8,7 +8,7 @@
 </div>
 <h1></h1>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning python and DB
 
