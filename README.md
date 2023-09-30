@@ -10,7 +10,7 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I’m currently learning python and DB
+### 🌱 I’m currently learning python, Go and DB
 
 
 
