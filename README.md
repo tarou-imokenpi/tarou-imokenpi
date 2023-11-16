@@ -1,3 +1,5 @@
+# Hello !!
+## 🌱 I’m currently learning Rust
 [![wakatime](https://wakatime.com/badge/user/1e60395f-b6d7-4788-b234-afb0443b1e8b.svg)](https://wakatime.com/@1e60395f-b6d7-4788-b234-afb0443b1e8b)
 <div align="center" style="display: flex; justify-content: space-between; margin: 0 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,7 +13,7 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarouimokenpi)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I’m currently learning python, Go and DB
+
 
 
 
