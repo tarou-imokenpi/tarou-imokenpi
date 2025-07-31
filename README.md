@@ -1,5 +1,5 @@
 # Hello !
-## 🌱 I’m currently learning Swift
+## 🌱 I’m currently learning UML
 [![wakatime](https://wakatime.com/badge/user/1e60395f-b6d7-4788-b234-afb0443b1e8b.svg)](https://wakatime.com/@1e60395f-b6d7-4788-b234-afb0443b1e8b)
 
 <h1></h1>
